@@ -140,33 +140,11 @@ I actively practice competitive programming and continuously work on improving m
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harishmitha-2407&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishmitha-2407&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Harishmitha-2407&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishmitha-2407&theme=tokyo-night&hide_border=true" />
 
 </div>
 
