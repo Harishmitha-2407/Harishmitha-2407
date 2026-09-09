@@ -172,13 +172,24 @@ I actively practice competitive programming and continuously work on improving m
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 My Contribution Journey
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Harishmitha-2407/Harishmitha-2407/snake/github-contribution-grid-snake-dark.svg"
+  />
 
-<img src="https://raw.githubusercontent.com/Harishmitha-2407/Harishmitha-2407/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Harishmitha-2407/Harishmitha-2407/snake/github-contribution-grid-snake.svg"
+  />
 
-</div>
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Harishmitha-2407/Harishmitha-2407/snake/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
