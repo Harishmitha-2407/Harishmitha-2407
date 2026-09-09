@@ -101,7 +101,7 @@ A full-stack project developed using modern MERN technologies.
 
 ### 🏆 Problem Solving
 
-**500+ Problems Solved**
+**2500+ Problems Solved**
 
 </div>
 
