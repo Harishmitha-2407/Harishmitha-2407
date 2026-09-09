@@ -172,7 +172,7 @@ I actively practice competitive programming and continuously work on improving m
 
 ---
 
-## 🐍 My Contribution Journey
+<h2>🐍 My Contribution Journey</h2>
 
 <picture>
   <source
@@ -186,7 +186,7 @@ I actively practice competitive programming and continuously work on improving m
   />
 
   <img
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Harishmitha-2407/Harishmitha-2407/snake/github-contribution-grid-snake.svg"
   />
 </picture>
